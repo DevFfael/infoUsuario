@@ -1,7 +1,8 @@
 const linksSocialMedia = {
   github: "RaffaelOliveira-dev",
   instagram: "ffaeloliveira_",
-  youtube: "channel/UCWPA33eHLkY-d_lgv4OOouQ"
+  youtube: "channel/UCWPA33eHLkY-d_lgv4OOouQ",
+  linkedin:"in/raffaeloliveira-/"
 }
 
 function changeSocialMediaLinks() {
